@@ -3,7 +3,7 @@
 I'm glad to present some of my previous studying projects.
 
 
-## [Car Cost Estimation] (https://github.com/kirdmi/data_science_projects/tree/main/car_price_determination_model_building)
+## [Car Cost Estimation](https://github.com/kirdmi/data_science_projects/tree/main/car_price_determination_model_building)
 
 A car sales service is currently working on an application with the aim of attracting customers. The application will provide users with the ability to determine the market value of their cars. Historical data, including technical specifications and prices, is available for this purpose. The development of a predictive model is essential to accurately estimate the cost of a car.
 
