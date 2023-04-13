@@ -81,7 +81,7 @@ The study will be conducted in three stages:
 
 Libraries: Pandas.
 
-## [Optimal Well Location Prediction] (https://github.com/kirdmi/data_science_projects/tree/main/oil_extraction_region_determination)
+## [Optimal Well Location Prediction](https://github.com/kirdmi/data_science_projects/tree/main/oil_extraction_region_determination)
 
 One of the key decisions in oil exploration is the selection of the ideal location for a potential well. To address this challenge, data on oil samples from three different regions are available. Each region contains 10,000 deposits, with measurements of quality and volume recorded.
 
